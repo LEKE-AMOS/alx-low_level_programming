@@ -1,17 +1,13 @@
 #!/bin/bash
 #include <stdio.h>
 
-
-
 /**
  *
- *  * main - Entry point
+ *  * main - main block
  *
- *   *
+ *   * Return: 0
  *
- *    * Return: Always 0 (Success)
- *
- *     */
+ *    */
 
 int main(void)
 
